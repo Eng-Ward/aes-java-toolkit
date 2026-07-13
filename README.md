@@ -117,7 +117,7 @@ For production use cases, prefer a vetted library implementation (e.g., `javax.c
 
 ## License
 
-Add your preferred license here (e.g., MIT).
+--
 
 ## Contributing
 
